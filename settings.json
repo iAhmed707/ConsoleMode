@@ -1,0 +1,8 @@
+{
+  "hotkeys": {
+    "toggle_console": "Ctrl+Alt+L",
+    "exit_console": "Ctrl+Alt+X",
+    "show_window": "Ctrl+Alt+G"
+  },
+  "autostart": false
+}

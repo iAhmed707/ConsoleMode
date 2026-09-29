@@ -1,0 +1,1 @@
+"""ConsoleMode application package."""

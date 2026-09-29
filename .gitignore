@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+.env
+
+# Runtime user data (created automatically at first run)
+profiles/
+logs/
+
+# Builds / archives
+*.zip
+*.exe
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
